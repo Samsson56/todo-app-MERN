@@ -6,4 +6,4 @@ Todo App | MERN \
 --> Deployed frontend on Vercel and backend on Render, ensuring accessibility from any device.
 
 Sample Output: \
-<img width="1918" height="960" alt="image" src="https://github.com/user-attachments/assets/bf53ee70-26bf-4406-85c4-b9cf6afd32cc" /> \
+<img width="1918" height="960" alt="image" src="https://github.com/user-attachments/assets/bf53ee70-26bf-4406-85c4-b9cf6afd32cc" />
