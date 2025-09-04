@@ -1,5 +1,5 @@
 Todo App | MERN \
---> Implemented CRUD operations (Create, Read, Update, Delete) with a RESTful API built in Express.js. \
+--> Implemented CRUD operations (Create, Read, Update, Delete) \
 --> Integrated MongoDB database for persistent storage of todos. \
 --> Added task completion toggle, inline editing, and deletion for a smooth user experience. \
 --> Styled the UI with TailwindCSS for a responsive and modern design. \
